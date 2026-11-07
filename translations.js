@@ -56,23 +56,28 @@ window.translations = {
       "Try adjusting your search or filter to find what you're looking for.",
 
     // ---- Project descriptions ----
-    // Yaroslav Calculator
-    'project.yaroslavcalculator.title': 'Yaroslav Calculator',
-    'project.yaroslavcalculator.description':
-      'Multi-functional calculator including converter, timer, currency exchange and randomizer.',
-    'project.yaroslavcalculator.languages': 'English, Russian',
-    'project.yaroslavcalculator.release_date': 'July 15, 2026',
     // Yarik Weather
     'project.yarikweather.title': 'Yarik Weather',
     'project.yarikweather.description':
       'Weather app with AI-powered recommendations, interactive charts, astronomy data, and coastal city detection.',
     'project.yarikweather.languages': 'English, Russian',
     'project.yarikweather.release_date': 'June 11, 2026',
+    // Yaroslav Calculator
+    'project.yaroslavcalculator.title': 'Yaroslav Calculator',
+    'project.yaroslavcalculator.description':
+      'Multi-functional calculator including converter, timer, currency exchange and randomizer.',
+    'project.yaroslavcalculator.languages': 'English, Russian',
+    'project.yaroslavcalculator.release_date': 'July 15, 2026',
     // Gravity Simulator
     'project.gravity-simulator.title': 'Gravity Simulator',
     'project.gravity-simulator.description':
       'A ball physics simulator where you adjust gravity, height, bounce and so on - then watch realistic falling and bouncing in real-time!',
     'project.gravity-simulator.release_date': 'July 1, 2026',
+    // Trench chess
+    'project.gravity-simulator.title': 'Trench chess',
+    'project.gravity-simulator.description':
+      'A turn-based strategy game based on a chess board about the First World War. Set up trenches and hold the defense for 20 moves or lead the infantry on the attack! Play together or against the bot.',
+    'project.gravity-simulator.release_date': 'October 6, 2026',
     // SpaceYarik Simulator
     'project.spaceyarik.title': 'SpaceYarik Simulator',
     'project.spaceyarik.description':
@@ -257,22 +262,27 @@ window.translations = {
       'Попробуйте изменить параметры поиска или фильтр.',
 
     // ---- Project descriptions ----
+    // Yarik Weather
+    'project.yarikweather.title': 'Yarik Weather',
+    'project.yarikweather.description':
+      'Приложение о погоде с рекомендациями на основе искусственного интеллекта, интерактивными картами, астрономическими данными и функцией определения прибрежных городов.',
+    'project.yarikweather.release_date': '11 июня 2026',
     // Yaroslav Calculator
     'project.yaroslavcalculator.title': 'Yaroslav Calculator',
     'project.yaroslavcalculator.description':
       'Многофункциональный калькулятор, включающий конвертер, таймер, обмен валют и рандомайзер.',
     'project.yaroslavcalculator.languages': 'Английский, Русский',
     'project.yaroslavcalculator.release_date': '15 июля 2026',
-    // Yarik Weather
-    'project.yarikweather.title': 'Yarik Weather',
-    'project.yarikweather.description':
-      'Приложение о погоде с рекомендациями на основе искусственного интеллекта, интерактивными картами, астрономическими данными и функцией определения прибрежных городов.',
-    'project.yarikweather.release_date': '11 июня 2026',
     // Gravity Simulator
     'project.gravity-simulator.title': 'Gravity Simulator',
     'project.gravity-simulator.description':
       'Физический симулятор мяча, в котором вы регулируете гравитацию, высоту, отскок и так далее, а затем наблюдаете за реалистичным падением и отскоком в режиме реального времени!',
     'project.gravity-simulator.release_date': '1 июля 2026',
+    // Trench chess
+    'project.trench-chess.title': 'Окопные шахматы',
+    'project.trench-chess.description':
+      'Пошаговая стратегия на основе шахмат доске о Первой мировой. Расставьте окопы и держите оборону 20 ходов или ведите пехоту в атаку! Играйте вдвоём или против бота.',
+    'project.trench-chess.release_date': '6 октября 2026',
     // SpaceYarik Simulator
     'project.spaceyarik.title': 'SpaceYarik Simulator',
     'project.spaceyarik.description':

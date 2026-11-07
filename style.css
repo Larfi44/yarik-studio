@@ -7,8 +7,8 @@
 
 /* ---- THEME VARIABLES ---- */
 :root {
-  --primary-color: rgb(255, 125, 0);
-  --hover-color: rgb(255, 125, 0);
+  --primary-color: rgb(0, 128, 128);
+  --hover-color: rgb(170, 255, 0);
   --background-color: #ffffff;
   --surface-color: #f9fafb;
   --text-color: #1f2937;
@@ -17,7 +17,7 @@
   --card-bg: #ffffff;
   --navbar-bg: #1f2937;
   --navbar-text: #f9fafb;
-  --btn-primary-bg: rgb(255, 125, 0);
+  --btn-primary-bg: rgb(0, 128, 128);
   --btn-secondary-bg: #6b7280;
   --btn-donate-bg: #f97316;
   --btn-donate-hover: #ea580c;
@@ -29,8 +29,8 @@
 }
 
 [data-theme='dark'] {
-  --primary-color: rgb(255, 125, 0);
-  --hover-color: rgb(255, 125, 0);
+  --primary-color: rgb(48, 213, 200);
+  --hover-color: rgb(28, 78, 194);
   --background-color: #111827;
   --surface-color: #1f2937;
   --text-color: #f9fafb;
@@ -39,7 +39,7 @@
   --card-bg: #1f2937;
   --navbar-bg: #111827;
   --navbar-text: #f9fafb;
-  --btn-primary-bg: rgb(255, 125, 0);
+  --btn-primary-bg: rgb(48, 213, 200);
   --btn-secondary-bg: #4b5563;
   --btn-donate-bg: #f97316;
   --btn-donate-hover: #ea580c;
